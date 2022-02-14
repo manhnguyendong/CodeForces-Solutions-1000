@@ -2,7 +2,7 @@
 
 using namespace std;
 //Ý tưởng để làm bài này là đưa các số về vị trí giữa, space là khoảng cách, khoảng cách này sẽ là số chạy từ giữa đến hàng đang khảo sát
-// Ví dụ ma trận 5x5
+// Ví dụ ma trận 5x5  3123123
 /*
     1       2       3       4       5
     6       7       8       9       10
